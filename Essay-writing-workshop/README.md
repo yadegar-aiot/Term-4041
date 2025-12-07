@@ -1,4 +1,11 @@
-نجمن علمی دانشجویی IOT و هوش مصنوعی برگذار میکند:
+<div align="center">
+<p align="center">
+  <img src="assets/Essay-writing-workshop-banner.jpg" width="480" alt="banner">
+</p>
+</div>
+
+<div dir="rtl" style="text-align: right;">
+<strong>نجمن علمی دانشجویی IOT و هوش مصنوعی برگذار میکند:</strong>
 
 
  کارگاه تخصصی مقاله‌نویسی
@@ -22,3 +29,5 @@
 [@AIot_ssa_yi_iau](https://t.me/AIot_ssa_yi_iau)
 
 آموزش جامع، اساتید حرفه‌ای و فضایی دوستانه؛ قدم‌به‌قدم تا نوشتن یک مقاله‌ی علمی استاندارد همراهتان هستیم.
+
+</div>
