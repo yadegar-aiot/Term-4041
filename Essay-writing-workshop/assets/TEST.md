@@ -1,5 +1,5 @@
 <div align="center">
 <p align="center">
-  <img src="assets/Banner.png" width="180" alt="Baner">
+  <img src="Essay-writing-workshop-banner.jpg" width="480" alt="banner">
 </p>
 </div>
