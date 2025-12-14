@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yadegar-aiot/.github/blob/main/profile/assets/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo">
+  <img src="/IOT-LOGO-Blue.svg" width="280" alt="AI & IoT SSA logo">
 </p>
 <div align="center">
 
