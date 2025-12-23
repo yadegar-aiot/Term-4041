@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Git-and-GitHub-Basics-Course.jpg" width="720" alt="Git & GitHub Workshop Banner">
+  <img src="assets/Git-and-GitHub-Basics-Course-banner.jpg" width="720" alt="Git & GitHub Workshop Banner">
 </div>
 
 <div dir="rtl" align="right">
